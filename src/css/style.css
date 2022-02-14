@@ -1,0 +1,46 @@
+.main-container {
+    background: #fff;
+}
+.headline {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background: #C4AEAD;
+    line-height: 50px;
+}
+.tokeninfo {
+    background: #fff;
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid #C4AEAD;
+    text-align: center;
+}
+.tokenname {
+    font-size: 25px;
+    color: brown;
+    font-weight: 700;
+}
+.tokenowner {
+    margin-top: 40px;
+    text-align: left;
+    padding: 10px;
+    color: #000;
+    font-size: 20px;
+}
+.tokenowners {
+    color: chartreuse;
+    font-size: 20px;
+    font-weight: 700;
+}
+.tokendescription {
+    border: 2px solid #C4AEAD;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+.tokendescriptions {
+    padding: 40px;
+    margin-left: 20px;
+}
+.tokenlink {
+    margin-top: 100px;
+}

@@ -1,0 +1,37 @@
+{
+    "file_path": "https://d1iczm3wxxz9zd.cloudfront.net/cf448ac5-9078-44a9-b8a9-6d85175c1af8/000000-0000000002/27100030241167471445704004800716370922650091160041098576044089597982141802867/ITEM_PREVIEW1.png",
+    "nft_name": "The Dino Smile #1",
+    "external_link": "https://www.google.com/",
+    "description": "Welcome to The Dino Smile.The Dino Smile are a collection of 1,111 randomly generated NFTs on the Ethereum blockchain.We rise together. We build together. We grow together.Join us to be a part of our journey building something special -20% of the proceeds will go to donations to help children in the greatest need, targeting African countries. Where children are at greatest risk and deprivation - the significance, gratitude and joy of helping hand are the most sincere.We make the world better,with a smile",
+    "collection": "The Dino Smile",
+    "properties": [
+      {
+        "type": "Background",
+        "name": "83"
+      },
+      {
+        "type": "Body",
+        "name": "9"
+      },
+      {
+        "type": "Base Hat",
+        "name": "40"
+      },
+      {
+        "type": "Shoes",
+        "name": "52"
+      }
+    ],
+    "levels": [],
+    "stats": [],
+    "unlockable_content": [],
+    "explicit_and_sensitive_content": false,
+    "supply": 1,
+    "blockchain": "Polygon",
+    "price": 0.005,
+    "quantity": 1,
+    "dna": "4cce3644ec1dffdd4402d8531c744edd0e3af409",
+    "edition": 1,
+    "date": 1644747556616,
+    "compiler": "HashLips Art Engine"
+  }
